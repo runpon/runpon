@@ -51,7 +51,7 @@
 - [역할] 데이터 수집, 전처리, EDA, 시각화, 분석, 머신러닝, 웹 구축, 크롤링
 - [기여 사항과 트러블 해결](https://github.com/runpon/Portfolio/blob/main/ddareung.md)
 
-### 4. [서울시 따릉이 자전거 반납 및 대여 스테이션별 예측 웹 개발](https://github.com/wodnjsrla85/hangang_parking)
+### 4. [반포한강공원 주차수요 예측 및 한강 공원내 이용자를 위한 서비스 APP & WEB](https://github.com/wodnjsrla85/hangang_parking)
 > 날짜 : 25/07/22(화) ~ 25/07/31(목) </br>
 > 조원 : 김x원, 김x호, 김태민, 위x배, 전x성, 정x윤[팀프로젝트] </br>
 - 마포구 자전거 스테이션별 반납 및 대여 예측 웹 개발
