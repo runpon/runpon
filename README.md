@@ -56,7 +56,15 @@
 > 조원 : 김x원, 김x호, 김태민, 위x배, 전x성, 정x윤[팀프로젝트] </br>
 - 반포한강공원 주차수요 예측 및 한강 공원내 이용자를 위한 서비스 앱 & 웹 개발
 - Swift / FastAPI / Python / MongoDB </br>
-- [역할] 데이터 수집, 전처리, EDA, 시각화, 분석, 머신러닝 파이프라인 구축, 웹 구축
+- [역할] 데이터 수집, 전처리, EDA, 시각화, 분석, 머신러닝 파이프라인 구축, 웹 구축, 데이터베이스 설계 및 구축
+- [기여 사항과 트러블 해결](https://github.com/runpon/Portfolio/blob/main/ddareung.md)
+
+### 5. [챗봇 & 여권인식으로 준비하는 스마트 항공 예약 서비스 APP & WEB](https://github.com/wodnjsrla85/hangang_parking)
+> 날짜 : 25/09/08(월) ~ 25/09/26(금) </br>
+> 조원 : 김x원, 김x호, 김태민, 위x배, 정x윤[팀프로젝트] </br>
+- 챗봇으로 질의응답을 하고 서비스 앱 & 웹 개발
+- Swift / FastAPI / Python / MongoDB </br>
+- [역할] 데이터 수집, 전처리, EDA, 시각화, 분석, 머신러닝 파이프라인 구축, 웹 구축, 데이터베이스 설계 및 구축
 - [기여 사항과 트러블 해결](https://github.com/runpon/Portfolio/blob/main/ddareung.md)
 
 <!--
